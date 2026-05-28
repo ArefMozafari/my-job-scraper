@@ -37,6 +37,23 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
+    # Remote at the first
+    "Remote Mobile Develper",
+    "Remote Mobile App Developer",
+    "Remote Flutter Developer",
+    "Remote Flutter",
+    "Remote Cross Platform Developer",
+    "Remote Flutter Engineer",
+    "Remote Mobile Engineer",
+    # * Remote at the end
+    "Mobile Develper Remote",
+    "Mobile App Developer Remote",
+    "Flutter Developer Remote",
+    "Flutter Remote",
+    "Cross Platform Developer Remote",
+    "Flutter Engineer Remote",
+    "Mobile Engineer Remote",
+    # * Without Remote
     "Mobile Develper",
     "Mobile App Developer",
     "Flutter Developer",
