@@ -69,6 +69,7 @@ BLACKLIST_KEYWORDS = [
     "must reside in us",
     "must be located in the us",
     "must be based in",
+    "Only freelancers located in"
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
